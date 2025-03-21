@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../reference/concepts/kusciadeployment_cn.md:10
 msgid "状态说明"
-msgstr "State Description."
+msgstr "State Description"
 
 #: ../../reference/concepts/kusciadeployment_cn.md:12
 msgid "下图为 KusciaDeployment(KD) 的状态流转图。"
